@@ -1,0 +1,21 @@
+Pending changes in the mainline
+===============================
+
+
+Version 1.1 (2023-11-24)
+========================
+
+* Updated OHIF to 3.7.0
+* The default configuration has been adapted to avoid unneccesary
+  transcoding on Orthanc side
+* Patch to make the build of static assets reproducible, following a
+  suggestion by Bernhard M. Wiedemann (bwiedemann@suse.de)
+
+
+Version 1.0 (2023-06-19)
+========================
+
+=> Minimum SDK version: 1.0.0 <=
+
+* Initial release
+* Contains OHIF 3.6.0
